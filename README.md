@@ -1,4 +1,4 @@
-# Futuristic PuertoRico
+# Futuristic Puerto Rico
 
 ## Simple HTML Image Slider
 
